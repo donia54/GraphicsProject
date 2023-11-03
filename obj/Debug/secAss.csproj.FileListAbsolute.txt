@@ -1,0 +1,11 @@
+C:\Users\AB\source\repos\secAss\bin\Debug\secAss.exe.config
+C:\Users\AB\source\repos\secAss\bin\Debug\secAss.exe
+C:\Users\AB\source\repos\secAss\bin\Debug\secAss.pdb
+C:\Users\AB\source\repos\secAss\obj\Debug\secAss.csproj.AssemblyReference.cache
+C:\Users\AB\source\repos\secAss\obj\Debug\secAss.csproj.SuggestedBindingRedirects.cache
+C:\Users\AB\source\repos\secAss\obj\Debug\secAss.Form1.resources
+C:\Users\AB\source\repos\secAss\obj\Debug\secAss.Properties.Resources.resources
+C:\Users\AB\source\repos\secAss\obj\Debug\secAss.csproj.GenerateResource.cache
+C:\Users\AB\source\repos\secAss\obj\Debug\secAss.csproj.CoreCompileInputs.cache
+C:\Users\AB\source\repos\secAss\obj\Debug\secAss.exe
+C:\Users\AB\source\repos\secAss\obj\Debug\secAss.pdb
